@@ -1,5 +1,5 @@
 
- Automic testng
+Automated testng
 for  running this code execute StrCal7Shifts\src\StringCalculator.java, as test cases are implemeted in that.
 
 Manual testing 
